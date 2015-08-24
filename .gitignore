@@ -54,3 +54,5 @@ api/data/*
 .agignore
 .ctags
 tags
+
+/.azk
