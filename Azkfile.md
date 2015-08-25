@@ -5,7 +5,7 @@
 ### Mattermost (default)
 
 - mattermost
-- db
+- mysql
 
 ```sh
 azk start -Rv
