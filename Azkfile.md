@@ -4,7 +4,7 @@
 
 ### Mattermost (default)
 
-- mattermost
+- platform
 - mysql
 
 ```sh
